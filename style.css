@@ -1,0 +1,26 @@
+@charset "UTF-8";
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Poppins:ital,wght@1,300&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,600;1,100;1,200;1,500;1,600&display=swap');
+
+
+body{
+    background-image:linear-gradient( 290deg ,#F2EFDF,#D0D9D4,#798C8C) ;
+}
+picture{
+    text-align: center;
+    float: left;
+}
+
+p{
+  text-align: center; 
+  height: 100vh;
+  margin: 0;
+  display:flex ;
+  align-items: center;
+  font-family: 'Fredericka the Great', serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  color: #526464;
+  font-size: 20px;
+  font-weight: 550;
+}
